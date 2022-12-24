@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/books
+Authorization: 5080039c1e7379e22830368d0963305e
